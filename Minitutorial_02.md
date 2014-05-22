@@ -1,7 +1,7 @@
 Minitutorial 2
 ========================================================
 
-Cleanning
+Cleaning
 ---------
 Before start coding let's clean our Global environment.
 
